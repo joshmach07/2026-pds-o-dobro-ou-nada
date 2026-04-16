@@ -1,0 +1,44 @@
+[gd_scene format=3 uid="uid://cly8e52umjrd3"]
+
+[node name="TitleScreen" type="Control" unique_id=701417040]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="bg" type="TextureRect" parent="." unique_id=2023175378]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+expand_mode = 2
+
+[node name="MarginContainer" type="MarginContainer" parent="." unique_id=1814853262]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="HBoxContainer" type="HBoxContainer" parent="MarginContainer" unique_id=1920245607]
+layout_mode = 2
+
+[node name="VBoxContainer" type="VBoxContainer" parent="MarginContainer/HBoxContainer" unique_id=598330771]
+layout_mode = 2
+
+[node name="TextureRect" type="TextureRect" parent="MarginContainer/HBoxContainer/VBoxContainer" unique_id=404699290]
+layout_mode = 2
+
+[node name="start_btn" type="Button" parent="MarginContainer/HBoxContainer/VBoxContainer" unique_id=993436946]
+layout_mode = 2
+text = "start"
+
+[node name="credits_btn" type="Button" parent="MarginContainer/HBoxContainer/VBoxContainer" unique_id=2000118502]
+layout_mode = 2
+text = "credits"
+
+[node name="quit_btn" type="Button" parent="MarginContainer/HBoxContainer/VBoxContainer" unique_id=1034013808]
+layout_mode = 2
+text = "quit"
+
+[node name="mochi" type="TextureRect" parent="MarginContainer/HBoxContainer" unique_id=1756111316]
+layout_mode = 2
