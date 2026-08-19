@@ -1,7 +1,7 @@
 # Entrega E1 — Pré-Projeto corrigido
 
 **Equipe:** O Dobro ou Nada  
-**Data de entrega:** {{dd/mm/aaaa}} · **Prazo:** {{dd/mm/aaaa}} · **Peso:** 10%
+**Data de entrega:** 20/08/2026 · **Prazo:** 20/08/2026 · **Peso:** 10%
 
 ---
 
