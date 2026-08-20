@@ -11,7 +11,7 @@ Esta pasta contém os arquivos e informações referentes à entrega do Pré-Pro
 
 ## 🔗 Link para a parte correspondente no Documento do Projeto Final
 
-{{COLE AQUI O LINK PÚBLICO DO DOCUMENTO DO PROJETO FINAL}}
+https://1drv.ms/w/c/d8d5b6228cdff290/IQCxbGNNGfKgTqtarYikWxHBARVUzxEKNDS1w6TbdXu3meU?e=jceHI1
 
 ## 📂 Arquivos desta entrega
 
@@ -26,17 +26,17 @@ Esta pasta contém os arquivos e informações referentes à entrega do Pré-Pro
 
 ## 🎯 Autoavaliação (conceito pretendido)
 
-- **Conceito que a equipe acredita ter alcançado nesta entrega:** {{A / B / C / D}}
-- **Por quê:** {{breve justificativa.}}
+- **Conceito que a equipe acredita ter alcançado nesta entrega:** A/B
+- **Por quê:** Aqui temos a correção do pré-projeto no tempo verbal certo e com as correções que a banca pediu, porém não temos diagrama aqui.
 
 ---
 
 ## ✅ Checklist antes de marcar como concluída
 
-- ☐ Conteúdo na pasta certa e nomeado sem acento/espaço.
-- ☐ Link do documento público atualizado e acessível.
-- ☐ Tempo verbal adequado.
-- ☐ Correções da banca aplicadas.
+- ✅ Conteúdo na pasta certa e nomeado sem acento/espaço.
+- ✅ Link do documento público atualizado e acessível.
+- ✅ Tempo verbal adequado.
+- ✅ Correções da banca aplicadas.
 - ☐ Diagramas com `.drawio` e exportação PNG/SVG, quando aplicável.
-- ☐ Normas ABNT/IFPR conferidas.
-- ☐ Status atualizado no `README.md` da raiz.
+- ✅ Normas ABNT/IFPR conferidas.
+- ✅ Status atualizado no `README.md` da raiz.
