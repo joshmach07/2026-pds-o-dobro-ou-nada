@@ -1,7 +1,7 @@
 # Entrega E2 — Capa, Folha de Rosto e Introdução
 
 **Equipe:** O Dobro ou Nada  
-**Data de entrega:** {{dd/mm/aaaa}} · **Prazo:** 20/08/2026 · **Peso:** 10%
+**Data de entrega:** 20/08/2026 · **Prazo:** 20/08/2026 · **Peso:** 10%
 
 ---
 
@@ -11,7 +11,7 @@ Esta entrega apresenta a capa, a folha de rosto e o Capítulo 1 — Introdução
 
 ## 🔗 Link para a parte correspondente no Documento do Projeto Final
 
-{{COLE AQUI O LINK PÚBLICO DO DOCUMENTO DO PROJETO FINAL}}
+https://1drv.ms/w/c/d8d5b6228cdff290/IQAj2N_-QkbjQoylqGTruAtAASQU69bfH95E0ienslOP4M0?e=JstOvI
 
 ## 📂 Arquivos desta entrega
 
@@ -20,22 +20,22 @@ Esta entrega apresenta a capa, a folha de rosto e o Capítulo 1 — Introdução
 
 ## ✍️ Responsáveis por esta entrega
 
-- {{Nome do integrante}}
-- {{Nome do integrante}}
-- {{Nome do integrante}}
+- Enrico Barros de Camargo
+- Josué Gabriel Jonko Machado
+- Pedro Tomaz Formann
 
 ## 🎯 Autoavaliação (conceito pretendido)
 
-- **Conceito que a equipe acredita ter alcançado nesta entrega:** {{A / B / C / D}}
-- **Por quê:** {{breve justificativa sobre a capa, folha de rosto e introdução.}}
+- **Conceito que a equipe acredita ter alcançado nesta entrega:** A
+- **Por quê:** Uma capa e folha de rosto excelente e uma introdução impecável com muita escrita e introduzindo bem o nosso projeto.
 
 ---
 
 ## ✅ Checklist antes de marcar como concluída
 
-- ☐ Conteúdo na pasta certa e nomeado sem acento/espaço.
-- ☐ Link do documento público atualizado e acessível.
-- ☐ Tempo verbal adequado.
-- ☐ Correções da banca aplicadas.
-- ☐ Normas ABNT/IFPR conferidas.
-- ☐ Status atualizado no `README.md` da raiz.
+- ✅ Conteúdo na pasta certa e nomeado sem acento/espaço.
+- ✅ Link do documento público atualizado e acessível.
+- ✅ Tempo verbal adequado.
+- ✅ Correções da banca aplicadas.
+- ✅ Normas ABNT/IFPR conferidas.
+- ✅ Status atualizado no `README.md` da raiz.
