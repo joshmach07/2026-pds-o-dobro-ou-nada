@@ -14,7 +14,7 @@
 |---|---|---|
 | Enrico Barros de Camargo | @usuario | função |
 | Josué Gabriel Jonko Machado | @joshmach07 | Desenvolvedor |
-| Pedro Tomaz Formann | @usuario | função |
+| Pedro Tomaz Formann | @pedroformann-arch | Documentação |
 
 ---
 
@@ -22,10 +22,7 @@
 
 | O quê | Link |
 |---|---|
-| 📄 **Documento do Projeto Final (público)** | COLOCAR LINK AQUI |
-| 🖥️ Sistema / deploy | Em desenvolvimento |
-| 🎨 Protótipo no Figma | Em desenvolvimento |
-| 📋 Quadro de gestão (ClickUp) | Em desenvolvimento |
+| 📄 **Documento do Projeto Final (público)** https://1drv.ms/w/c/d8d5b6228cdff290/IQAj2N_-QkbjQoylqGTruAtAASQU69bfH95E0ienslOP4M0?e=ynx95L
 
 > ⚠️ O link do **Documento do Projeto Final** é obrigatório e deve estar público.
 
@@ -42,19 +39,3 @@
 **Tecnologias (stack):** Godot, Piskel e demais ferramentas utilizadas no desenvolvimento do projeto.
 
 ---
-
-## 🗂️ Estrutura do repositório
-
-```text
-.
-├── README.md
-├── docs/
-│   ├── E1-pre-projeto-corrigido/
-│   ├── aprovacao-e-termos-de-concordancia/
-│   ├── E2-introducao/
-│   ├── E3-fundamentacao-teorica/
-│   ├── E4-metodologia/
-│   └── E5-desenvolvimento/
-├── diagramas/
-├── prototipos/
-└── src/
