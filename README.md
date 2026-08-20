@@ -14,7 +14,7 @@
 |---|---|---|
 | Enrico Barros de Camargo | @usuario | função |
 | Josué Gabriel Jonko Machado | @joshmach07 | Desenvolvedor |
-| Pedro Tomaz Formann | @pedroformann-arch | Documentação |
+| Pedro Tomaz Formann | @pedroformannifpr-arch | Documentação |
 
 ---
 
