@@ -1,7 +1,7 @@
 # Entrega E5 — Desenvolvimento do Sistema
 
 **Equipe:** O Dobro ou Nada  
-**Data de entrega:** {{dd/mm/aaaa}} · **Prazo:** {{dd/mm/aaaa}} · **Peso:** 30%
+**Data de entrega:** 20/08/2026 · **Prazo:** {{dd/mm/aaaa}} · **Peso:** 30%
 
 ---
 
@@ -11,7 +11,7 @@ Esta entrega apresenta o desenvolvimento do sistema proposto no Projeto Final, i
 
 ## 🔗 Link para a parte correspondente no Documento do Projeto Final
 
-{{COLE AQUI O LINK PÚBLICO DO DOCUMENTO DO PROJETO FINAL}}
+https://1drv.ms/w/c/d8d5b6228cdff290/IQAj2N_-QkbjQoylqGTruAtAASQU69bfH95E0ienslOP4M0?e=JstOvI
 
 ## 📂 Arquivos desta entrega
 
