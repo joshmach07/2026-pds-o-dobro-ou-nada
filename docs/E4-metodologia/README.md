@@ -27,7 +27,7 @@ https://1drv.ms/w/c/d8d5b6228cdff290/IQAj2N_-QkbjQoylqGTruAtAASQU69bfH95E0ienslO
 ## 🎯 Autoavaliação (conceito pretendido)
 
 - **Conceito que a equipe acredita ter alcançado nesta entrega:** A
-- **Por quê:** Abordamos uma metodologia sobre o nosso projeto de uma forma boa e divertida de ler
+- **Por quê:** Abordamos uma metodologia sobre o nosso projeto de uma forma boa e divertida de ler.
 
 ---
 
