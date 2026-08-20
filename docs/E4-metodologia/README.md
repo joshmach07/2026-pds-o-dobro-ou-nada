@@ -1,7 +1,7 @@
 # Entrega E4 — Metodologia
 
 **Equipe:** O Dobro ou Nada  
-**Data de entrega:** {{dd/mm/aaaa}} · **Prazo:** {{dd/mm/aaaa}} · **Peso:** 10%
+**Data de entrega:** 20/08/2026 · **Prazo:** {{dd/mm/aaaa}} · **Peso:** 10%
 
 ---
 
@@ -11,7 +11,7 @@ Esta entrega apresenta o Capítulo 3 — Metodologia do Projeto Final, descreven
 
 ## 🔗 Link para a parte correspondente no Documento do Projeto Final
 
-{{COLE AQUI O LINK PÚBLICO DO DOCUMENTO DO PROJETO FINAL}}
+https://1drv.ms/w/c/d8d5b6228cdff290/IQAj2N_-QkbjQoylqGTruAtAASQU69bfH95E0ienslOP4M0?e=JstOvI
 
 ## 📂 Arquivos desta entrega
 
