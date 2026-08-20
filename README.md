@@ -22,7 +22,7 @@
 
 | O quê | Link |
 |---|---|
-| 📄 **Documento do Projeto Final (público)** https://1drv.ms/w/c/d8d5b6228cdff290/IQAj2N_-QkbjQoylqGTruAtAASQU69bfH95E0ienslOP4M0?e=ynx95L
+| 📄 **Documento do Projeto Final (público)** | https://1drv.ms/w/c/d8d5b6228cdff290/IQAj2N_-QkbjQoylqGTruAtAASQU69bfH95E0ienslOP4M0?e=ynx95L |
 
 > ⚠️ O link do **Documento do Projeto Final** é obrigatório e deve estar público.
 
