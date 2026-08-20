@@ -13,7 +13,7 @@
 | Nome | GitHub (@usuário) | Função no projeto |
 |---|---|---|
 | Enrico Barros de Camargo | @usuario | função |
-| Josué Gabriel Jonko Machado | @usuario | função |
+| Josué Gabriel Jonko Machado | @joshmach07 | Desenvolvedor |
 | Pedro Tomaz Formann | @usuario | função |
 
 ---
