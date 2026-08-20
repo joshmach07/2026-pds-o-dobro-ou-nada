@@ -39,3 +39,35 @@
 **Tecnologias (stack):** Godot, Piskel e demais ferramentas utilizadas no desenvolvimento do projeto.
 
 ---
+
+## 🗂️ Estrutura do repositório
+​
+```
+.
+├── README.md  ← este arquivo (identificação + links)
+├── docs/  ← documentação do Projeto Final (entregas)
+│   ├── E1-pre-projeto-corrigido/
+│   ├── aprovacao-e-termos-de-concordancia/
+│   ├── E2-introducao/
+│   ├── E3-fundamentacao-teorica/
+│   ├── E4-metodologia/
+│   └── E5-desenvolvimento/
+├── diagramas/  ← .drawio + exportações PNG/SVG
+├── prototipos/  ← exportações/links do Figma
+└── src/  ← código-fonte do sistema
+```
+​
+> A estrutura completa e o passo a passo estão em **`GUIA-DO-REPOSITORIO.md`**. Cada pasta de entrega usa o **Modelo de Entrega** (`_TEMPLATE-ENTREGA.md`).
+​
+---
+​
+## 📦 Entregas do 2º Trimestre (status)
+​
+| # | Entrega | Peso | Status | Onde está |
+|---|---|---|---|---|
+| E1 | Pré-Projeto corrigido (banca) | 10% | ⬜ a fazer | `docs/E1-pre-projeto-corrigido/` |
+| 📄 | Aprovação do Pré-Projeto + Termos de Concordância | 10% | ⬜ a fazer | `docs/aprovacao-e-termos-de-concordancia/` |
+| E2 | Capa, Folha de Rosto e Introdução | 10% | ⬜ a fazer | `docs/E2-introducao/` |
+| E3 | Fundamentação Teórica | 10% | ⬜ a fazer | `docs/E3-fundamentacao-teorica/` |
+| E4 | Metodologia / Materiais e Métodos | 10% | ⬜ a fazer | `docs/E4-metodologia/` |
+| E5 | Desenvolvimento do Sistema | 30% | ⬜ a fazer | `docs/E5-desenvolvimento/` + `src/` |
