@@ -37,6 +37,5 @@ https://1drv.ms/w/c/d8d5b6228cdff290/IQCxbGNNGfKgTqtarYikWxHBARVUzxEKNDS1w6TbdXu
 - ✅ Link do documento público atualizado e acessível.
 - ✅ Tempo verbal adequado.
 - ✅ Correções da banca aplicadas.
-- ☐ Diagramas com `.drawio` e exportação PNG/SVG, quando aplicável.
 - ✅ Normas ABNT/IFPR conferidas.
 - ✅ Status atualizado no `README.md` da raiz.
