@@ -23,6 +23,8 @@
 | O quê | Link |
 |---|---|
 | 📄 **Documento do Projeto Final (público)** | https://1drv.ms/w/c/d8d5b6228cdff290/IQAj2N_-QkbjQoylqGTruAtAASQU69bfH95E0ienslOP4M0?e=ynx95L |
+[PROJETO Dobro ou Nada (4).pdf](https://github.com/user-attachments/files/31286465/PROJETO.Dobro.ou.Nada.4.pdf)
+
 
 > ⚠️ O link do **Documento do Projeto Final** é obrigatório e deve estar público.
 
@@ -70,4 +72,4 @@
 | E2 | Capa, Folha de Rosto e Introdução | 10% | ✅️ | `docs/E2-introducao/` |
 | E3 | Fundamentação Teórica | 10% | ✅️ | `docs/E3-fundamentacao-teorica/` |
 | E4 | Metodologia / Materiais e Métodos | 10% | ✅️ | `docs/E4-metodologia/` |
-| E5 | Desenvolvimento do Sistema | 30% | ✅️ | `docs/E5-desenvolvimento/` + `src/` |
+| E5 | Desenvolvimento do Sistema | 30% |  | `docs/E5-desenvolvimento/` + `src/` |
