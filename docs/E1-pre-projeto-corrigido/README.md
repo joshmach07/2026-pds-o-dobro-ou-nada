@@ -15,7 +15,7 @@ https://1drv.ms/w/c/d8d5b6228cdff290/IQCxbGNNGfKgTqtarYikWxHBARVUzxEKNDS1w6TbdXu
 
 ## 📂 Arquivos desta entrega
 
-- `{{arquivo}}` — {{descrição do arquivo}}
+- [2026.03-03PreProjeto_ODobroOuNada (2).pdf](https://github.com/user-attachments/files/31286244/2026.03-03PreProjeto_ODobroOuNada.2.pdf)
 - Outros arquivos relacionados ao Pré-Projeto corrigido.
 
 ## ✍️ Responsáveis por esta entrega
