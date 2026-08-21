@@ -22,8 +22,7 @@
 
 | O quê | Link |
 |---|---|
-| 📄 **Documento do Projeto Final (público)** | https://1drv.ms/w/c/d8d5b6228cdff290/IQAj2N_-QkbjQoylqGTruAtAASQU69bfH95E0ienslOP4M0?e=ynx95L |
-| [PROJETO Dobro ou Nada (4).pdf](https://github.com/user-attachments/files/31286465/PROJETO.Dobro.ou.Nada.4.pdf)
+| 📄 **Documento do Projeto Final (público)** | https://1drv.ms/w/c/d8d5b6228cdff290/IQAj2N_-QkbjQoylqGTruAtAASQU69bfH95E0ienslOP4M0?e=ynx95L [PROJETO Dobro ou Nada (4).pdf](https://github.com/user-attachments/files/31286465/PROJETO.Dobro.ou.Nada.4.pdf)
 
 
 > ⚠️ O link do **Documento do Projeto Final** é obrigatório e deve estar público.
