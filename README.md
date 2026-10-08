@@ -12,7 +12,7 @@
 
 | Nome | GitHub (@usuário) | Função no projeto |
 |---|---|---|
-| Enrico Barros de Camargo | @usuario | função |
+| Enrico Barros de Camargo | @EnricoBcT | Designer e Roteirista |
 | Josué Gabriel Jonko Machado | @joshmach07 | Desenvolvedor |
 | Pedro Tomaz Formann | @pedroformannifpr-arch | Documentação |
 
