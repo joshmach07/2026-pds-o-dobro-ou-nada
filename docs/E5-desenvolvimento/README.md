@@ -22,7 +22,7 @@ https://1drv.ms/w/c/d8d5b6228cdff290/IQAj2N_-QkbjQoylqGTruAtAASQU69bfH95E0ienslO
 ## 🎯 Autoavaliação (conceito pretendido)
 
 - **Conceito que a equipe acredita ter alcançado nesta entrega:** B
-- **Por quê:** TEmos tudo o que precisa pra esse capítulo, talvez os diagramas deixem a desejar um pouco mas a documentação vai surpreender
+- **Por quê:** Temos tudo o que precisa pra esse capítulo, talvez os diagramas deixem a desejar um pouco mas a documentação vai surpreender
 
 ---
 
