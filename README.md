@@ -26,7 +26,7 @@
 
 
 > ⚠️ O link do **Documento do Projeto Final** é obrigatório e deve estar público.
-> [PROJETO Dobro ou Nada_.pdf](https://github.com/user-attachments/files/31286465/PROJETODobroOuNada_.pdf)
+> [PROJETODobroouNada_.pdf](https://github.com/user-attachments/files/31286465/PROJETODobroOuNada_.pdf)
 
 ---
 
